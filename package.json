@@ -1,0 +1,14 @@
+{
+  "name": "artisitfy",
+  "version": "1.0.0",
+  "description": "Art website",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server",
+    "scss": "node-sass -o css/ css/"
+  },
+  "author": "Saish",
+  "license": "ISC"
+}
